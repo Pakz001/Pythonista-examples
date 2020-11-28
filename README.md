@@ -5,4 +5,4 @@ https://github.com/Pythonista-Tools/Pythonista-Tools/blob/master/Games.md
 
 
 notes : 
-The coordinate system is left and bottom is 0,0. Up is y+, right is x+
+The coordinate system is left bottom of the screen is 0,0. Up is y+, right is x+
