@@ -1,7 +1,8 @@
 # Pythonista-examples
 Example copy and paste code for ios pythonista(game oriented)
 
-Book/hardware fund donations to : paypal.me/rudyvanetten
+Book/hardware fund donations to : https://www.paypal.me/RudyvanEtten/5
+
 
 https://github.com/Pythonista-Tools/Pythonista-Tools/blob/master/Games.md
 
