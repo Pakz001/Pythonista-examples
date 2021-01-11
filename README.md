@@ -1,6 +1,8 @@
 # Pythonista-examples
 Example copy and paste code for ios pythonista(game oriented)
 
+A good coding book for python I think is "coding the classics" I'm referencing from that book myself.
+
 Book/hardware fund donations to : https://www.paypal.me/RudyvanEtten/5
 
 <br>
