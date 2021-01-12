@@ -27,6 +27,8 @@ class MyScene (Scene):
 		pass
 	
 	def update(self):
+		while(len(self.bullet)<10):
+			self.bullet.append(test(200,200))
 		for obj in self.bullet:
 			obj.update()
 			if(obj.countdown<0):
