@@ -22,7 +22,7 @@ class MyScene (Scene):
 	def update(self):
 		background(1,1,0)
 		tint(1,1,1)
-		rect(50,50,200,100)
+		rect(50,50,200,100)#<<Note the rect with lower case 'r' Pythonista also has a Rect with upper case 'R'
 		pass
 	
 	def touch_began(self, touch):
