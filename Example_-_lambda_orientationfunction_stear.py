@@ -1,4 +1,6 @@
 #
+# orientation function inside class point relation to line.
+# lambda function (sign)
 # acces lists of objects from within class.
 # hypot for distance
 # atan2 for angle
