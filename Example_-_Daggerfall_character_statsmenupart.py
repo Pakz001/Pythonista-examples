@@ -16,7 +16,7 @@ class ui:
 		self.pointsleft = 0
 		self.touchx = 0
 		self.touchy = 0
-		self.listindex=0
+		self.listindex=3
 		self.list = []
 		for i in range(32):
 			self.list.append(random.randint(20,100))
